@@ -29,7 +29,9 @@ namespace MyStore.Pages.Clients
             //save the client into the database
 
             clientInfo.name = "";
-            clientInfo.name = "";
+            clientInfo.email = "";
+            clientInfo.phone = "";
+            clientInfo.address = "";
         }
     }
 }
